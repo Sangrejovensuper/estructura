@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\UPN\\Desktop\\ED\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AC6E36E1-DDDB-4101-83C6-9C424EA5D375}|Pilas\\Pilas.csproj|C:\\Users\\UPN\\Desktop\\ED\\pilas\\pila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC6E36E1-DDDB-4101-83C6-9C424EA5D375}|Pilas\\Pilas.csproj|solutionrelative:pilas\\pila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AC6E36E1-DDDB-4101-83C6-9C424EA5D375}|Pilas\\Pilas.csproj|c:\\users\\upn\\desktop\\ed\\pilas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC6E36E1-DDDB-4101-83C6-9C424EA5D375}|Pilas\\Pilas.csproj|solutionrelative:pilas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AC6E36E1-DDDB-4101-83C6-9C424EA5D375}|Pilas\\Pilas.csproj|c:\\users\\upn\\desktop\\ed\\pilas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{AC6E36E1-DDDB-4101-83C6-9C424EA5D375}|Pilas\\Pilas.csproj|C:\\Users\\UPN\\Desktop\\ED\\pilas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{AC6E36E1-DDDB-4101-83C6-9C424EA5D375}|Pilas\\Pilas.csproj|solutionrelative:pilas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC6E36E1-DDDB-4101-83C6-9C424EA5D375}|Pilas\\Pilas.csproj|c:\\users\\upn\\desktop\\ed\\pilas\\pila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC6E36E1-DDDB-4101-83C6-9C424EA5D375}|Pilas\\Pilas.csproj|solutionrelative:pilas\\pila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AC6E36E1-DDDB-4101-83C6-9C424EA5D375}|Pilas\\Pilas.csproj|C:\\Users\\UPN\\Desktop\\ED\\pilas\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,19 +31,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\ED\\Pilas\\Form1.cs",
+              "RelativeDocumentMoniker": "Pilas\\Form1.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\ED\\Pilas\\Form1.cs*",
+              "RelativeToolTip": "Pilas\\Form1.cs*",
+              "ViewState": "AgIAABsAAAAAAAAAAAArwCYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T17:08:33.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Pila.cs",
               "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\ED\\Pilas\\Pila.cs",
               "RelativeDocumentMoniker": "Pilas\\Pila.cs",
               "ToolTip": "C:\\Users\\UPN\\Desktop\\ED\\Pilas\\Pila.cs",
               "RelativeToolTip": "Pilas\\Pila.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAAowD8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-21T15:56:27.025Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Nodo.cs",
               "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\ED\\Pilas\\Nodo.cs",
               "RelativeDocumentMoniker": "Pilas\\Nodo.cs",
@@ -47,8 +64,7 @@
               "RelativeToolTip": "Pilas\\Nodo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T15:56:20.491Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T15:56:20.491Z"
             },
             {
               "$type": "Document",
@@ -56,8 +72,8 @@
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\ED\\Pilas\\Form1.cs",
               "RelativeDocumentMoniker": "Pilas\\Form1.cs",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\ED\\Pilas\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Pilas\\Form1.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\ED\\Pilas\\Form1.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "Pilas\\Form1.cs [Dise\u00F1o]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-21T15:49:57.529Z",
               "EditorCaption": " [Dise\u00F1o]"

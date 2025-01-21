@@ -14,10 +14,10 @@ namespace Pilas
         public void push(string nom) 
         {
             Nodo nuevo = new Nodo();
-            nuevo.Nombre = nom;
+            nuevo.Nombre=nom;
 
             nuevo.Sig=cima;
-            cima = nuevo;
+            cima=nuevo;
             contador++;
 
         }
@@ -32,8 +32,10 @@ namespace Pilas
             }
         }
 
-        public string Pop() {
-            if (cima!=null) {
+        public string Pop() 
+        {
+            if (cima!=null) 
+            {
                 string nombre = cima.Nombre;
                 cima=cima.Sig;
                 contador--;
@@ -41,9 +43,22 @@ namespace Pilas
             }
             return null;
         }
-        public int contar() {
+        public int contar() 
+        {
             return contador;
         }
-
+        public string Peek() 
+        {
+            if (cima==null) 
+            {
+                return cima.Nombre;
+            }
+            return null;
+        }
+        public void Clear() 
+        {
+            cima=null;
+            contador=0;
+        }
     }
 }

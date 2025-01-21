@@ -31,5 +31,19 @@ namespace Pilas
                 actual=actual.Sig;
             }
         }
+
+        public string Pop() {
+            if (cima!=null) {
+                string nombre = cima.Nombre;
+                cima=cima.Sig;
+                contador--;
+                return nombre;
+            }
+            return null;
+        }
+        public int contar() {
+            return contador;
+        }
+
     }
 }
